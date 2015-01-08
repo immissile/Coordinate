@@ -1,0 +1,23 @@
+
+#m-linex {
+    position: absolute;
+    z-index: 99999999;
+    height: 0px;
+    width: 100%;
+    /*border-bottom: 1px #0675D2 dashed;*/
+	border-bottom: 1px #EC0505 dashed;
+    left: 0px;
+    overflow: hidden;
+    display: none;
+}
+#m-liney {
+    position: absolute;
+    z-index: 99999999;
+    height: 100%;
+    width: 0px;
+    top: 0px;
+	/*border-left: 1px #0675D2 dashed;*/
+    border-left: 1px #EC0505 dashed;
+    overflow: hidden;
+    display: none;
+}
