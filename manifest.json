@@ -33,6 +33,5 @@
         "16": "images/icon-16.png",
         "48": "images/icon-48.png"
     },
-    "content_security_policy": "script-src 'self'; object-src 'self'",
-    "update_url": "http://www.chrome.com"
+    "content_security_policy": "script-src 'self'; object-src 'self'"
 }
